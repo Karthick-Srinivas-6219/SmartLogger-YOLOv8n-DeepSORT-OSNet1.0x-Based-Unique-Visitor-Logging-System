@@ -6,7 +6,7 @@ This repo implements a 3-stage unique visitor log generation pipeline that takes
 [[Link to Demo]](https://youtu.be/jeZw4MNxz0s "Click to watch")
 
 # Overview of the pipeline
-![Alt text](full_pipeline.png)
+![Alt text](Full_Pipeline.png)
 
 ## 🚀 Features
 
