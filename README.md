@@ -4,3 +4,13 @@ This repo implements a 3-stage unique visitor log generation pipeline that takes
 # Demo 👇
 <video src="demo.mp4" controls width="640"></video>
 [[Link to Demo]](https://youtu.be/jeZw4MNxz0s "Click to watch")
+
+# Overview of the pipeline
+![Alt text](InScene_Full_Workflow_Github.png)
+
+## 🚀 Features
+
+* **YOLOv8n**: Accurate **frame-by-frame** person detection.
+* **DeepSORT**: Tracks persons frame-by-frame and extracts stable **tracklets** containing person appearences in **multiple poses**.
+* **OSNet-1.0x**: Considers **each image** in the tracklets folder per person and computes a **512-d multi-pose avg. embedding**.
+---
