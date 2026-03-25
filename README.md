@@ -50,3 +50,17 @@ Download the package **torchreid** from the link [[Link to download]](https://gi
   ├── torchreid/
 
    ```
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Acknowledgements
+
+* [Special Thanks](https://github.com/Ayushman-Choudhuri/yolov5-deepsort) - Another repo that contains a clean implementation of **YOLOv5+DeepSORT** for multi-object tracking.
+* [Special Thanks](https://github.com/RodMech/OSNet-IBN1-Lite) - Another repo that unambiguously shows reid embeddings can be extracted, cached & matched using **OSNetx1.0**.
+---
+
+### ⭐ If you find this project helpful, don’t forget to star the repo!
