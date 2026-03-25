@@ -37,10 +37,15 @@ This repo implements a 3-stage unique visitor log generation pipeline that takes
 ## 🔧 Running Dependency
 
 Download **osnet_x1_0_msmt17.pth** from the link [[Link to download]](https://drive.google.com/file/d/15HxslNJuw1VWcOQbwQu1R-LmczI4TPtD/view?usp=drive_link).
+
 Place this file inside ```reid_models ```
+
 Download **sidewalk_walking_1920x1080.mp4** from the link [[Link to download]](https://drive.google.com/file/d/1CIzZdJqvJ2vpkk9yGtq9cr0SLmW-Hqbz/view?usp=drive_link).
+
 Place this file inside ```videos ```
+
 Download the package **torchreid** from the link [[Link to download]](https://github.com/kaiyangzhou/deep-person-reid).
+
 Place this file inside the project directory
 
    ```bash
